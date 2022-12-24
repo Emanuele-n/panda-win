@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  franka_model.cpp
+  FrankaPandaDynModelLib_dll.cpp
+     Creating library C:\Users\manun\Desktop\Medlogix\Medlogix\Marco\robhot_repo - Software\FrankaDynModelLib\FrankaPandaDynModelLib_dll\FrankaPandaDynModelLib_dll\x64\Release\FrankaPandaDynModelLib_dll.lib and object C:\Users\manun\Desktop\Medlogix\Medlogix\Marco\robhot_repo - Software\FrankaDynModelLib\FrankaPandaDynModelLib_dll\FrankaPandaDynModelLib_dll\x64\Release\FrankaPandaDynModelLib_dll.exp
+  Generating code
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FrankaPandaDynModelLib_dll.vcxproj -> C:\Users\manun\Desktop\Medlogix\Medlogix\Marco\robhot_repo - Software\FrankaDynModelLib\FrankaPandaDynModelLib_dll\FrankaPandaDynModelLib_dll\x64\Release\FrankaPandaDynModelLib_dll.dll
+  FrankaPandaDynModelLib_dll.vcxproj -> C:\Users\manun\Desktop\Medlogix\Medlogix\Marco\robhot_repo - Software\FrankaDynModelLib\FrankaPandaDynModelLib_dll\FrankaPandaDynModelLib_dll\x64\Release\FrankaPandaDynModelLib_dll.pdb (Full PDB)
